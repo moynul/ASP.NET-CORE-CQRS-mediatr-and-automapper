@@ -1,4 +1,4 @@
-# CQRS: ASP.NET CORE Mediatr and Automapper
+# CQRS: ASP.NET CORE 5.0 Mediatr and Automapper
 ASP.NET CORE 5.0 CQRS mediatr and automapper Example project
 
 ## Technologies implemented:
