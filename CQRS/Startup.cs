@@ -80,6 +80,7 @@ namespace CQRS
             app.UseSwaggerUI(c =>
             {
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "CQRS.WebApi");
+                c.RoutePrefix = string.Empty;
             });
             #endregion
             app.UseEndpoints(endpoints =>
